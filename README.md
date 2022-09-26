@@ -25,17 +25,17 @@
 * `color` - цвет прямоугольной рамки в цветовом пространстве RGB;
 * `draw` - отображать рамку (`True`) или нет (`False`).
 
-![Example]()
+![config](https://user-images.githubusercontent.com/58470881/192338234-3174c55a-26b3-492f-b726-e1e669022d7c.png)
 
 ## run.py
 
 Если web камера не найдена, то ошибка:
 
-![Example]()
+![web not find](https://user-images.githubusercontent.com/58470881/192338295-eb3d97e2-9863-414b-8ee0-c0d5cfdadc65.png)
 
 Пример распознования глаз, после нажатия правой кнопки мыши появляется меню:
 
-![Example]()
+![menu](https://user-images.githubusercontent.com/58470881/192338359-ebacbd56-8711-4c8d-8ac2-8846edb34bd9.png)
 
 В нижнем левом углу отображаются координаты курсора и цвет пикселя в пространстве RGB.
 
